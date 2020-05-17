@@ -1,0 +1,133 @@
+
+.logo_entete{
+	display: block;
+	margin: auto;
+	height: 300px;
+	min-width: 300px;
+	align-items: center;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+body {
+	width: 950px;
+	display: block;
+	margin: auto;
+	background: repeat url(fond.jpg);
+
+}
+
+h1 {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+	width: 57%;
+	font-family: Arial;
+	font-size: 20px;
+	background-color: #ffffff7f;
+	border: 20px solid black;
+	border-radius: 55px;
+	padding: 30px;
+	align-items: center;
+}
+
+strong {
+	font-weight: bolder;
+	font-size: 30px;
+	font-style: italic;
+}
+
+.l_arnaqueur {
+	width: 200px;
+	margin: auto;
+}
+
+h2 {
+	font-family: Arial;
+	font-size: 18px;
+	text-align: center;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	padding: 5px;
+}
+
+.photo_1 {
+	display: flex;
+	margin-left: 0px;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 55px;
+	width: 400px;
+	float: left;
+	flex: auto;
+}
+
+
+.txt_1 {
+	flex: auto;
+	display: flex;
+	font-family: serif;
+	font-size: 23px;
+	margin-top: 80px;
+	margin-left: auto;
+	width: 50%;
+}
+
+.photo_2 {
+	display: flex;
+	margin-left: 0px;
+	margin-right: auto;
+	margin-top: 147px;
+	margin-bottom: 55px;
+	width: 400px;
+	float: right;
+	flex: auto;
+}
+
+.txt_2 {
+	flex: auto;
+	display: flex;
+	font-family: serif;
+	font-size: 23px;
+	margin-top: 30px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: auto;
+	width: 50%;
+}
+
+
+
+
+footer {
+	width: 950px;
+	display: flex;
+	background-color: #46c8c8;
+	align-items: center;
+	height: 615px;
+	min-width: 615px;
+	flex-direction: column;
+}
+
+.blabla_fin {
+	display: block;
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 28px;
+	text-align: left;
+	width: 85%;
+}
+
+.nin {
+	display: block;
+	width: 13%;
+
+}
